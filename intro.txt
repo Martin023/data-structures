@@ -1,0 +1,26 @@
+- We work with worst case scenario perfomance of algorithms and data structures. 
+- O(n) algorithms grows with size of n. - O(n^2) grows faster than O(n) 
+
+- O(1) algorithms are constant time. eg : accessing an element in an array.
+- O(log n) algorithms are logarithmic time. eg binary search.
+- O(n log n) algorithms are linearithmic time. eg quicksort, mergesort, heapsort.
+- Osqrt(n) algorithms are square root time. eg binary search on a sorted array.
+
+These take long time to execute
+
+- O(n^2) algorithms are quadratic time. eg bubble sort, insertion sort, selection sort.
+- O(n^3) algorithms are cubic time. eg matrix multiplication.
+
+- O(2^n) algorithms are exponential time. eg recursive fibonacci.
+- O(n!) algorithms are factorial time. eg traveling salesman problem.
+
+- Arrays are fixed size data structures.
+- Linked lists are dynamic size data structures.
+- Stacks are LIFO data structures.
+- Queues are FIFO data structures.
+- Trees are hierarchical data structures.
+- Graphs are non-hierarchical data structures.
+
+- Binary search is a divide and conquer algorithm.
+- Merge sort is a divide and conquer algorithm.
+- Quick sort is a divide and conquer algorithm.
